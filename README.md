@@ -1,14 +1,4 @@
 # AI-Security-Logs
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3.14.3-blue?style=for-the-badge&logo=python" alt="Python Version">
-  <img src="https://img.shields.io/badge/AI-Isolation_Forest-red?style=for-the-badge" alt="AI Model">
-  <img src="https://img.shields.io/badge/Status-Internship_Ready-green?style=for-the-badge" alt="Status">
-  
-  <h1>🛡️ AI-Powered Security Log Analytics</h1>
-  <p><i>Developed by Ayah Khudair Abbas Alzareef • CS Student @ IAU</i></p>
-</div>
-
-<hr>
 
 <h2>📖 Overview</h2>
 <p>
