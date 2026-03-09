@@ -50,10 +50,3 @@ python generator.py
 python detector.py
 </code>
 </pre>
-
-<hr>
-
-<div align="center">
-  <p>Seeking Summer 2026 Professional Internship</p>
-  <a href="https://github.com/ayahkhudair">View My Portfolio</a>
-</div>
